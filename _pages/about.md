@@ -15,10 +15,6 @@ News
 
 Publications
 ======
-#{% include base_path %}
-#{% for post in site.publications reversed %}
-#  {% include archive-single-publications.html %}
-#{% endfor %}
 
   
 Blogs
