@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan (Yana) Xu"
+title                    : "Zhengdong Wu"
 title_separator          : "-"
-name                     : &name "Yan (Yana) Xu"
+name                     : &name "Zhengdong Wu"
 description              : &description "personal description"
-url                      : https://yana-xuyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wu-zhengdong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yana-xuyan/yana-xuyan.github.io"
+repository               : "wu-zhengdong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yan Xu"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate"
+  name             : "Zhengdong Wu"
+  avatar           : 
+  bio              : "HKU D24H RA"
   location         : "Hong Kong"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=j1t9_ScAAAAJ&hl=en"
-  semanticscholar  : "https://www.semanticscholar.org/author/Yan-Xu/98271906"
-  email            : "yxucb@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=pLVxbrEAAAAJ&hl=zh-CN"
+  semanticscholar  : 
+  email            : "wuzhengdong2@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yana-xuyan"
+  github           : "wu-zhengdong"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "yan-xu-4a822a172"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "@Tea_XuYan"
+  twitter          :
   vine             :
   weibo            :
   xing             :
