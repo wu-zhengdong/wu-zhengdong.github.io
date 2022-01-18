@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yan Xu"
+title: "Zhengdong Wu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,10 +15,10 @@ News
 
 Publications
 ======
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single-publications.html %}
-{% endfor %}
+#{% include base_path %}
+#{% for post in site.publications reversed %}
+#  {% include archive-single-publications.html %}
+#{% endfor %}
 
   
 Blogs
