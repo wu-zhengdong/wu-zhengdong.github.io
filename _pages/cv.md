@@ -16,16 +16,16 @@ You can download my [CV](../files/ZhengdongWu_CV.pdf) in PDF.
 
 ## Work experience
 <!-- ====== -->
-* AI programmer (RA II): *Laboratory of Data Discovery for Health (D²4H) and The University fo Hong Kong* *(Feb. 2022 -)*
+* AI programmer (RA II): *Laboratory of Data Discovery for Health (D²4H) and The University fo Hong Kong, Hong Kong, China.* *(Feb. 2022 -)*
 
-* Medical Clinical Data Analyst: *Guangzhou Aid Cloud (Guangdong Traditional Chinese Medicine Big Data Center)* *(Sept. 2020 - Aug. 2021)*
+* Medical Clinical Data Analyst: *Guangzhou Aid Cloud (Guangdong Traditional Chinese Medicine Big Data Center), Guangzhou, China.* *(Sept. 2020 - Aug. 2021)*
   * A medical clinical data study: Responsible for clinical data analysis in the Grade III Level A hospitals in China, using statistics, machine learning, and causal inference techniques to build a clinical predictive model and explore the impact of independent risk factors on outcome events in clinical research, and use deep learning to recognize oral pathology images and predict hypotension waveforms.
   * Cooperate with clinicians to explore the application of machine learning in clinical medicine, develop clinical research ideas using machine learning, and co-author academic papers.
   * Co-authored paper in press: *An explainable supervised machine learning predictor of acute kidney injury after adult
 deceased donor liver transplantation*, which has been accepted by the Journal of Translational Medicine.
   * Co-authored paper under review: *Perioperative Methylprednisolone was a risk factor for postoperative pulmonary complications in elderly patients undergoing hip fracture surgery*.
 
-* Research Assistant: *NanFang College of Sun Yat-Sen University, Big Data and Artificial Intelligence Center (BAC), Guangzhou, China* *(Sept. 2018 - Jun. 2020)* 
+* Research Assistant: *NanFang College of Sun Yat-Sen University, Big Data and Artificial Intelligence Center (BAC), Guangzhou, China.* *(Sept. 2018 - Jun. 2020)* 
   * A forecasting research on daily precipitation in the real-world dataset.
   * Wrote a paper named *Daily Rainfall Data Construction and Application to Weather Prediction*: A pilot study which has been accepted by ISCAS 2018.
   * Wrote a paper named *Prediction of daily precipitation based on deep learning and broad learning techniques*: A pilot study which has been accepted by ISKE 2019.
