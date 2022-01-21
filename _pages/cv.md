@@ -17,6 +17,7 @@ You can download my [CV](../files/ZhengdongWu_CV.pdf) in PDF.
 ## Work experience
 <!-- ====== -->
 * AI programmer (RA II): *Laboratory of Data Discovery for Health (D²4H) and The University fo Hong Kong, Hong Kong, China.* *(Feb. 2022 -)*
+  * COVID-19 vaccine hesitancy study based on Knowledge-Based Systems and NLP.
 
 * Medical Clinical Data Analyst: *Guangzhou Aid Cloud (Guangdong Traditional Chinese Medicine Big Data Center), Guangzhou, China.* *(Sept. 2020 - Aug. 2021)*
   * A medical clinical data study: Responsible for clinical data analysis in the Grade III Level A hospitals in China, using statistics, machine learning, and causal inference techniques to build a clinical predictive model and explore the impact of independent risk factors on outcome events in clinical research, and use deep learning to recognize oral pathology images and predict hypotension waveforms.
