@@ -27,7 +27,7 @@ deceased donor liver transplantation*, which has been accepted by the Journal of
   * Co-authored paper under review: *Perioperative Methylprednisolone was a risk factor for postoperative pulmonary complications in elderly patients undergoing hip fracture surgery*.
 
 * Research Assistant: *NanFang College of Sun Yat-Sen University, Big Data and Artificial Intelligence Center (BAC), Guangzhou, China.* *(Sept. 2018 - Jun. 2020)* 
-  * A forecasting research on daily precipitation in the real-world dataset.
+  * A forecasting research on daily precipitation by using Deep Learning and Broad Learning System (BLS) in the real-world dataset.
   * Wrote a paper named *Daily Rainfall Data Construction and Application to Weather Prediction*: A pilot study which has been accepted by ISCAS 2018.
   * Wrote a paper named *Prediction of daily precipitation based on deep learning and broad learning techniques*: A pilot study which has been accepted by ISKE 2019.
 
