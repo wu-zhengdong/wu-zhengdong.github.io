@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Psychiatry</p>
-    <p>The Chinese University of Hong Kong</p>
-    <p>Hong Kong SAR</p>
+    <div style="font-family: Roboto, sans-serif; font-size: 0.95rem; line-height: 1.5; text-align: center;">
+    Department of Psychiatry<br>
+    The Chinese University of Hong Kong
+    </div>
     <p class="profile-links" style="display: flex; justify-content: center; gap: 0.9rem; font-size: 1.4rem; margin-top: 0.6rem;">
     <a href="mailto:wuzhengdong@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
     <a href="https://scholar.google.com/citations?user=pLVxbrEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
