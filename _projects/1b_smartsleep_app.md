@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SmartSleep (智•好瞓)
-description: Participant app for a CUHK Theme-based Research Scheme project on adolescent sleep and mental health
+description: Participant app for a 6,000-adolescent CUHK Theme-based Research Scheme cohort on sleep and mental health
 img: assets/img/apps/smartsleep.png
 importance: 2
 category: mobile health apps
@@ -21,11 +21,11 @@ category: mobile health apps
 - **Early warning** — build AI models that predict sleep and mental-health risks from multimodal everyday data
 - **Precision intervention** — deliver personalized, AI-assisted sleep and circadian interventions that can be deployed in schools
 
-The study runs across **63 secondary schools** in Hong Kong with **450+ participants** so far (as of 2026).
+The study follows a cohort of **6,000 adolescents** across **63 secondary schools** in Hong Kong.
 
 ## The app
 
-SmartSleep is how participants take part day to day: it collects the daily sleep, mood, and questionnaire data that feed into the project. I developed the app, along with the internal back-office system the research team uses to manage participants, questionnaires, and study schedules.
+SmartSleep is how participants take part day to day: it collects the daily sleep, mood, and questionnaire data that feed into the project. As a research assistant on the project, I develop the app and the internal content-management system (CMS) the research team uses to manage participants, questionnaires, and study schedules.
 
 - Daily sleep diaries and mood diaries, including audio and video entries
 - Questionnaires and self-assessments organized by study phase, with version matching
