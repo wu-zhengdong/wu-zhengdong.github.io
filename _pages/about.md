@@ -29,10 +29,10 @@ latest_posts:
 
 I am a Ph.D. student in Psychiatry at **The Chinese University of Hong Kong (CUHK)**. My research sits at the intersection of **AI agents, digital phenotyping, and randomized trials** — building conversational AI and wearable-based tools for health, and rigorously testing whether they work.
 
-At CUHK, I build and deploy AI agents that deliver evidence-based sleep therapies (motivational interviewing, imagery rehearsal therapy, and CBT-I), and integrate Actigraph, Huawei, and Samsung wearable data for sleep–wake detection and sleep-stage classification.
+At CUHK, I build and deploy AI agents that deliver evidence-based sleep therapies (motivational interviewing, imagery rehearsal therapy, and CBT-I), and integrate Actigraph, Huawei, and Samsung wearable data for sleep–wake detection and sleep-stage classification. I also develop the mobile apps our studies run on, such as [SmartSleep](/projects/1b_smartsleep_app/) (iOS & Android) and [乐眠无忧](/projects/1c_lemian_app/).
 
-Before that, I spent three years at **The University of Hong Kong** and the [Laboratory of Data Discovery for Health (D²4H)](https://www.d24h.hk/), where I developed multilingual HPV vaccine chatbots and AI fact-checking browser extensions, and ran multi-center cluster randomized trials evaluating them. This work has appeared in _Nature Medicine_, _JAMA Network Open_, _npj Digital Medicine_, and _JMIR_.
+Before that, I spent three years at **The University of Hong Kong** and the [Laboratory of Data Discovery for Health (D²4H)](https://www.d24h.hk/), where I developed multilingual HPV vaccine chatbots and AI fact-checking browser extensions, and ran multi-center cluster randomized trials evaluating them. This work has appeared in _Nature Medicine_ (co-first author), _JAMA Network Open_, _npj Digital Medicine_, and _JMIR_.
 
-I received an M.Phil. in Public Health from HKU and a B.Eng. in Computer Science from NanFang College of Sun Yat-Sen University, and worked as a clinical data scientist applying causal inference and interpretable machine learning to real-world hospital data.
+I trained in computer science (B.Eng.) and public health (M.Phil., HKU), and worked as a clinical data scientist applying causal inference and interpretable machine learning to real-world hospital data.
 
 **Research interests:** AI agent evaluation · conversational agents for behavior change · digital phenotyping & wearables · digital sleep medicine · randomized controlled trials · vaccine confidence

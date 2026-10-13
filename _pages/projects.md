@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects on AI agents, digital health interventions, and clinical data science.
+description: Research projects and apps on AI agents, mobile health, digital health interventions, and clinical data science.
 nav: true
 nav_order: 3
-display_categories: [ai agents, digital health interventions, clinical data science]
+display_categories: [ai agents, mobile health apps, digital health interventions, clinical data science]
 horizontal: true
 ---
 
