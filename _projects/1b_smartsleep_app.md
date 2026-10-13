@@ -2,9 +2,12 @@
 layout: page
 title: SmartSleep
 description: iOS & Android app for adolescent sleep and emotional-health research at CUHK
+img: assets/img/apps/smartsleep.png
 importance: 2
 category: mobile health apps
 ---
+
+<img src="{{ '/assets/img/apps/smartsleep.png' | relative_url }}" alt="SmartSleep app icon" width="96" height="96" style="float: right; margin: 0 0 1rem 1rem; border-radius: 22%;">
 
 **CUHK Department of Psychiatry, Li Chiu Kong Family Sleep Assessment Unit · 2026**
 
