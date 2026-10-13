@@ -1,0 +1,26 @@
+"Nat. Med.":
+  url: https://www.nature.com/nm/
+  color: "#b31b1b"
+
+"JAMA Netw. Open":
+  url: https://jamanetwork.com/journals/jamanetworkopen
+  color: "#8c1d40"
+
+"npj Digit. Med.":
+  url: https://www.nature.com/npjdigitalmed/
+  color: "#00539b"
+
+"npj Vaccines":
+  url: https://www.nature.com/npjvaccines/
+  color: "#00539b"
+
+"JMIR":
+  url: https://www.jmir.org/
+  color: "#1a7f64"
+
+"Under Review":
+  color: "#8a8a8a"
+
+"J. Transl. Med.":
+  url: https://translational-medicine.biomedcentral.com/
+  color: "#555555"

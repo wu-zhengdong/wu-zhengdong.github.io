@@ -1,0 +1,5 @@
+# Map co-author last names to their homepages, e.g.:
+# "lin":
+#   - firstname: ["Leesa", "L."]
+#     url: https://example.com
+{}
