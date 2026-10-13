@@ -12,6 +12,13 @@ profile:
     <p>Department of Psychiatry</p>
     <p>The Chinese University of Hong Kong</p>
     <p>Hong Kong SAR</p>
+    <p class="profile-links" style="display: flex; justify-content: center; gap: 0.9rem; font-size: 1.4rem; margin-top: 0.6rem;">
+    <a href="mailto:wuzhengdong@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://scholar.google.com/citations?user=pLVxbrEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://orcid.org/0009-0009-2351-2280" title="ORCID"><i class="ai ai-orcid"></i></a>
+    <a href="https://github.com/wu-zhengdong" title="GitHub"><i class="fa-brands fa-github"></i></a>
+    <a href="/assets/pdf/CV_Zhengdong_Wu.pdf" title="CV (PDF)"><i class="fa-solid fa-file-pdf"></i></a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,7 +26,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false

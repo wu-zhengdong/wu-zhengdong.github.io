@@ -21,6 +21,14 @@
 "Under Review":
   color: "#8a8a8a"
 
+"medRxiv":
+  url: https://www.medrxiv.org/
+  color: "#8a8a8a"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#8a8a8a"
+
 "J. Transl. Med.":
   url: https://translational-medicine.biomedcentral.com/
   color: "#555555"
