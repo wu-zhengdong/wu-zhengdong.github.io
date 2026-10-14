@@ -2,8 +2,8 @@
 layout: page
 title: Interpretable clinical machine learning
 description: Causal inference and SHAP-based prediction models on real-world hospital data
-importance: 4
-category: clinical data science
+importance: 2
+category: ai modeling
 related_publications: true
 ---
 

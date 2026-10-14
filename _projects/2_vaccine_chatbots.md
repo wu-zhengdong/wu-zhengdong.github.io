@@ -2,12 +2,12 @@
 layout: page
 title: Vaccine chatbots
 description: Multilingual chatbots for HPV and COVID-19 vaccine confidence, tested in randomized trials across Asia
-importance: 2
-category: digital health interventions
+importance: 1
+category: clinical trials
 related_publications: true
 ---
 
-**HKU School of Public Health & D²4H · 2022 – 2025**
+**HKU School of Public Health & D²4H · 2022 – 2025** · Cycle stages: model → validate
 
 I developed multilingual vaccine chatbots — UI/UX, frontend and backend, LLM integration, and cloud deployment — and helped evaluate them in randomized trials.
 

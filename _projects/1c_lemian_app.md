@@ -3,8 +3,8 @@ layout: page
 title: 乐眠无忧 (Lemian Wuyou)
 description: CBT-I–based sleep health app for adolescents in mainland China
 img: assets/img/apps/lemian.png
-importance: 3
-category: mobile health apps
+importance: 2
+category: digital phenotyping
 ---
 
 <img src="{{ '/assets/img/apps/lemian.png' | relative_url }}" alt="乐眠无忧 app icon" width="96" height="96" style="float: right; margin: 0 0 1rem 1rem; border-radius: 22%;">

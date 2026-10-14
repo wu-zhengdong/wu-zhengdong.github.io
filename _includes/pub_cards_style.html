@@ -1,0 +1,22 @@
+<style>
+  .publications ol.bibliography li {
+    border: 1px solid var(--global-divider-color);
+    border-radius: 10px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1.25rem;
+    background: var(--global-card-bg-color);
+    transition:
+      border-color 0.2s,
+      box-shadow 0.2s;
+  }
+  @media (min-width: 576px) {
+    .publications ol.bibliography li > .row > .col-sm-8 {
+      flex: 0 0 83.333%;
+      max-width: 83.333%;
+    }
+  }
+  .publications ol.bibliography li:hover {
+    border-color: var(--global-theme-color);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+</style>

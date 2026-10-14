@@ -1,0 +1,77 @@
+<style>
+  .research-cycle {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.75rem;
+    margin: 1.5rem 0 0.5rem;
+  }
+  .research-cycle .stage {
+    position: relative;
+    display: block;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 10px;
+    padding: 0.8rem 0.9rem;
+    background: var(--global-card-bg-color);
+    color: var(--global-text-color);
+  }
+  .research-cycle .step {
+    font-size: 0.75rem;
+    color: var(--global-text-color-light);
+  }
+  .research-cycle .verb {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: var(--global-theme-color);
+  }
+  .research-cycle .what {
+    font-size: 0.85rem;
+    line-height: 1.35;
+    margin-top: 0.2rem;
+  }
+  .research-cycle .stage:not(:last-child)::after {
+    content: "→";
+    position: absolute;
+    right: -0.68rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--global-text-color-light);
+  }
+  .research-cycle-return {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+    margin-bottom: 1.5rem;
+  }
+  @media (max-width: 576px) {
+    .research-cycle {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .research-cycle .stage::after {
+      display: none;
+    }
+  }
+</style>
+
+<div class="research-cycle">
+  <div class="stage">
+    <div class="step">1</div>
+    <div class="verb">Sense</div>
+    <div class="what">Digital phenotyping from wearables, app diaries, and social media</div>
+  </div>
+  <div class="stage">
+    <div class="step">2</div>
+    <div class="verb">Model</div>
+    <div class="what">AI algorithms and conversational agents for assessment and intervention</div>
+  </div>
+  <div class="stage">
+    <div class="step">3</div>
+    <div class="verb">Evaluate</div>
+    <div class="what">Benchmarks and evidence synthesis before agents reach people</div>
+  </div>
+  <div class="stage">
+    <div class="step">4</div>
+    <div class="verb">Validate</div>
+    <div class="what">Randomized trials of real-world effectiveness</div>
+  </div>
+</div>
+<div class="research-cycle-return">↺ Trial and deployment data feed the next round of sensing.</div>

@@ -3,8 +3,8 @@ layout: page
 title: SmartSleep (智•好瞓)
 description: Participant app for a 6,000-adolescent CUHK Theme-based Research Scheme cohort on sleep and mental health
 img: assets/img/apps/smartsleep.png
-importance: 2
-category: mobile health apps
+importance: 1
+category: digital phenotyping
 ---
 
 <img src="{{ '/assets/img/apps/smartsleep.png' | relative_url }}" alt="SmartSleep app icon" width="96" height="96" style="float: right; margin: 0 0 1rem 1rem; border-radius: 22%;">

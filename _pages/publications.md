@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-{% include pub_thumbnails_style.html %}
+{% include pub_cards_style.html %}
 
 For a full list, see [Google Scholar](https://scholar.google.com/citations?user=pLVxbrEAAAAJ).
 
