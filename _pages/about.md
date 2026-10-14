@@ -18,7 +18,7 @@ profile:
     <a href="https://scholar.google.com/citations?user=pLVxbrEAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a href="https://orcid.org/0009-0009-2351-2280" title="ORCID"><i class="ai ai-orcid"></i></a>
     <a href="https://github.com/wu-zhengdong" title="GitHub"><i class="fa-brands fa-github"></i></a>
-    <a href="/assets/pdf/CV_Zhengdong_Wu.pdf" title="CV (PDF)"><i class="fa-solid fa-file-pdf"></i></a>
+    <a href="https://www.linkedin.com/in/zhengdong-wu-7021221b5/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
