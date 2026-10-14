@@ -7,7 +7,8 @@ first_name: Zhengdong
 middle_name:
 last_name: Wu
 contact_note: >
-  Email is the best way to reach me.
+  The best way to reach me is by email:
+  <a href="mailto:wuzhengdong@link.cuhk.edu.hk">wuzhengdong@link.cuhk.edu.hk</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Zhengdong Wu — Ph.D. student in Psychiatry at The Chinese University of Hong Kong, working on AI agents, digital phenotyping, and randomized trials in digital health.
 footer_text: >
