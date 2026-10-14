@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student, Department of Psychiatry, <a href='https://www.cuhk.edu.hk/'>The Chinese University of Hong Kong</a>
+subtitle: Ph.D. student, Department of Psychiatry, The Chinese University of Hong Kong
 
 profile:
   align: right
@@ -35,10 +35,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Psychiatry at **The Chinese University of Hong Kong (CUHK)**. I study how to take AI for health from everyday data to clinical evidence, working around one research cycle:
+I am a Ph.D. student in Psychiatry at **The Chinese University of Hong Kong (CUHK)**. I study how to take AI for health from everyday data to clinical evidence, working around [one research cycle](/research/): sensing behavior through digital phenotyping, modeling it with AI algorithms and agents, evaluating those agents, and validating them in randomized trials.
 
-{% include research_cycle.html %}
+At CUHK, I am working around this cycle for sleep and mental health. I collect wearable (Actigraph, Huawei, Samsung) and daily-diary data through apps I built — [SmartSleep](/projects/1b_smartsleep_app/) for the RGC Theme-based Research Scheme project [智•好瞓 Smart Sleep](https://www.smartsleep.cuhk.edu.hk/), and [乐眠无忧](/projects/1c_lemian_app/). I am developing a motivational interviewing chatbot and validating it in a randomized controlled trial, building models that predict adherence and remission in self-help digital CBT-I, and developing AI agents that deliver imagery rehearsal therapy and CBT-I.
 
-At **The University of Hong Kong** and the [Laboratory of Data Discovery for Health (D²4H)](https://www.d24h.hk/), I took vaccine communication around this cycle once: mapping public perspectives on vaccines and health AI from social media, building multilingual vaccine chatbots and an AI fact-checking browser extension, benchmarking large language models on multilingual vaccine knowledge, and testing the chatbots in randomized trials across Asia. This work has appeared in _Nature Medicine_, _JAMA Network Open_, _npj Digital Medicine_, and _JMIR_.
-
-At CUHK, I am running the cycle again for sleep and mental health. I collect wearable (Actigraph, Huawei, Samsung) and daily-diary data through apps I built — [SmartSleep](/projects/1b_smartsleep_app/) for the RGC Theme-based Research Scheme project [智•好瞓 Smart Sleep](https://www.smartsleep.cuhk.edu.hk/), and [乐眠无忧](/projects/1c_lemian_app/) — and build AI agents that deliver evidence-based sleep therapies (motivational interviewing, imagery rehearsal therapy, and CBT-I), alongside work on evaluating AI agents for mental health.
+Before that, at **The University of Hong Kong** and the Laboratory of Data Discovery for Health (D²4H), I took vaccine communication around the full cycle: mapping public perspectives on vaccines and health AI from social media, building multilingual vaccine chatbots and an AI fact-checking browser extension, benchmarking large language models on multilingual vaccine knowledge, and testing the chatbots in randomized trials across Asia. This work has appeared in _Nature Medicine_, _JAMA Network Open_, _npj Digital Medicine_, and _JMIR_.

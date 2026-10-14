@@ -12,4 +12,5 @@ We build and deploy AI agents that deliver evidence-based sleep therapies — mo
 
 - **Wearables.** Integrate Actigraph, Huawei, and Samsung wearable data, processing accelerometer and PPG signals for sleep–wake detection and sleep-stage classification.
 - **Adaptive coaching.** A wearable-enabled adaptive AI motivational interviewing chatbot for adolescent sleep and physical activity (Knowledge Transfer Impact Project Fund, IPF26GWP21; PI: Dr. Rachel Ngan Yin Chan).
-- **Evaluation.** Randomized trials plus machine learning to identify predictors of engagement and treatment outcomes.
+- **Clinical validation.** A randomized controlled trial of the motivational interviewing chatbot.
+- **Adherence and remission.** Machine learning models that predict adherence and remission in self-help digital CBT-I.
