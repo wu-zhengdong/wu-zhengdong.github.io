@@ -13,8 +13,6 @@ Personal academic website of Zhengdong Wu, built with [al-folio](https://github.
 | Journal badge colors | `_data/venues.yml`                          |
 | News                 | `_news/*.md`                                |
 | Projects             | `_projects/*.md`                            |
-| CV page              | `_data/cv.yml`                              |
-| CV PDF               | `assets/pdf/CV_Zhengdong_Wu.pdf`            |
 | Email / social links | `_data/socials.yml`                         |
 | Blog (hidden)        | `_posts/`, enable `nav` in `_pages/blog.md` |
 
