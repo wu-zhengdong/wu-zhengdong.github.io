@@ -42,3 +42,5 @@ At CUHK, I build and deploy AI agents that deliver evidence-based sleep therapie
 Before that, I spent three years at **The University of Hong Kong** and the [Laboratory of Data Discovery for Health (D²4H)](https://www.d24h.hk/), where I developed multilingual HPV vaccine chatbots and AI fact-checking browser extensions, and ran multi-center cluster randomized trials evaluating them. This work has appeared in _Nature Medicine_, _JAMA Network Open_, _npj Digital Medicine_, and _JMIR_.
 
 **Research interests:** AI agent evaluation · conversational agents for behavior change · digital phenotyping & wearables · digital sleep medicine · randomized controlled trials · vaccine confidence
+
+{% include pub_thumbnails_style.html %}
